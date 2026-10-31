@@ -21,9 +21,9 @@ DAX measures: Total Listings, Avg Price, Occupancy Rate %, Avg Availability, Avg
 | Price analysis  | Avg price by borough and room type, listings by neighbourhood, decomposition tree |
 | Reviews & hosts | Reviews over time, price vs. reviews, top hosts, availability by borough          |
 
-![Overview](images/overview.png)
-![Price analysis](images/price-analysis.png)
-![Reviews and hosts](images/reviews-hosts.png)
+![Overview](overview.png)
+![Price analysis](price-analysis.png)
+![Reviews and hosts](reviews-hosts.png)
 
 ## Python notebook
 
